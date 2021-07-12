@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+}
+h1{
+    color:grey;
+}
+.box-1 {
+    background-color: white; 
+    border-radius: 20px;
+    padding: 20px;
+}
+.content {
+    padding-left: 30px;
+    line-height: 2;
+}
+.highlight {
+    background-color: yellow;
+}
+
